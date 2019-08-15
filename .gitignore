@@ -1,0 +1,6 @@
+cache.db
+config.db
+config.json
+live_check.py
+venv
+.idea
